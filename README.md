@@ -16,19 +16,11 @@ Make sure you have the following installed:
 - PyTorch
 - CUDA (if using a GPU)
 - OpenCV
-- Other dependencies listed in `requirements.txt`
-
+  
 ## Installation
 
-1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/yolov10-sample.git
-    cd yolov10-sample
-    ```
-
-2. Install the required packages:
-    ```bash
-    pip install -r requirements.txt
+    git clone https://github.com/THU-MIG/yolov10
     ```
 
 ## Usage
